@@ -119,7 +119,7 @@ int main() {
     double result = evalPostfix(postfix);
     printf("\nResult:  %.2f\n", result);
 
-    printf("\nPEMDAS Rule Applied: Parentheses > Exponent > Multiplication/Division > Addition/Subtraction\n");
+    printf("\nRule Applied\n");
 
     return 0;
 }
